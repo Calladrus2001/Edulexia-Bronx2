@@ -52,3 +52,4 @@ lib/firebase_options.dart
 secrets.dart
 google-services.json
 firebase_app_id_file.json
+*.md
