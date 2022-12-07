@@ -1,0 +1,4 @@
+node_modules/
+package-lock.json
+.env
+contract_sol_MyContract.bin
